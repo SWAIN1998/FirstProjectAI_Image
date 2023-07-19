@@ -34,7 +34,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/SHABIN-K/AI-Image-Generation-app.git
+  git clone https://github.com/SWAIN1998/FirstProjectAI_Image
 ```
 **Client:**
 ````bash
@@ -52,7 +52,7 @@ npm start
 ````
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [Telegram Group]() For Support/Assistance And Our [Channel]() For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
